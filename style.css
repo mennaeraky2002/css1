@@ -1,0 +1,41 @@
+.div1{
+background-image: url('820723_0.jpeg');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height: 620px;
+width: 1366px;
+}
+.div2{
+    background-color: rgba(0, 0, 0, .5);
+    text-align: center;
+    font-style: oblique;
+    color: white;
+    height: 100%;
+}
+.div2 p{
+   /* padding: top 20px; ;
+    padding-bottom: 20px;*/
+    margin-top: 0;
+    padding-top:100px;
+    text-align: center;
+}
+.div2 .link1{
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 10px;
+    background-color:coral;
+    color: aliceblue;
+}
+.div2 .link2{
+    border-radius: 20px;
+    border: 1px solid coral;
+    text-decoration: none;
+    padding: 10px;
+    background-color:antiquewhite;
+    color: coral;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
